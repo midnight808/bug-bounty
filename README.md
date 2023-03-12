@@ -63,11 +63,11 @@ The reward will be received in USDC token based on the following severity scheme
 
 **Medium** = Up to 100,000 TEDY
 
-**High** = Up to 200,000 USDC
+**High** = Up to 200,000 TEDY
 
-**Very High** = Up to 1,000,000 USDC
+**Very High** = Up to 1,000,000 TEDY
 
-**Critical** = Up to  5,000,000 USDC
+**Critical** = Up to  5,000,000 TEDY
 
 ![Bug Bounty](bugBounty.png)
 
